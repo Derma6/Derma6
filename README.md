@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67233ece31d65c235dd0609a?variant=dark)](https://roadmap.sh)
+
 <!--
 **Derma6/Derma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
